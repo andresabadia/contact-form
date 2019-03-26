@@ -1,6 +1,7 @@
 # custom-input-vue-cli-2
 
 > A Vue.js project
+Check the live [example](https://www.id-ex.de/examples/contact-form).
 
 ## Build Setup
 
