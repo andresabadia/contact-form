@@ -1,4 +1,4 @@
-# vue-cli-idx-input
+# custom-input-vue-cli-2
 
 > A Vue.js project
 
